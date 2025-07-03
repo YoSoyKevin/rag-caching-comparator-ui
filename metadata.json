@@ -1,0 +1,5 @@
+
+{
+  "name": "RAG Caching Comparator",
+  "description": "A web interface to visually compare the performance and behavior of Exact Caching versus Semantic Caching in Retrieval-Augmented Generation (RAG) systems."
+}
